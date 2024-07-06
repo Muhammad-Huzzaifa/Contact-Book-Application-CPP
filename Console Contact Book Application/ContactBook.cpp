@@ -4,9 +4,6 @@
 ContactBook::ContactBook()
 {
     this->loadFromFile();
-    // this->mergeEqualContacts();
-    // this->sortByFirstName();
-    // this->saveToFile();
     this->loadForSearchHistory();
     this->saveForFrequentlyViewedContacts();
     this->loadGroupsFromFile();
