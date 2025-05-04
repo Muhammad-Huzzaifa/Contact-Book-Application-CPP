@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/ContactPhoto.png</file>
+        <file>images/GroupPhoto.png</file>
+    </qresource>
+</RCC>

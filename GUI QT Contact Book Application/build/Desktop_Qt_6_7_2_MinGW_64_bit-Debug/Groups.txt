@@ -1,0 +1,28 @@
+#Group1
+Abdul
+Raheem
+03117185048
+abdul@gmail.com
+P-50(Block-T)
+Gulistan Colony
+Faisalabad
+Pakistan
+
+Shaaf
+Imraan
+03127654345
+shaaf@gmail.com
+P-129(Block-B)
+Sitara Gold City
+Faisalabad
+Pakistan
+
+#Group2
+Haziq
+Gujjar
+03087687654
+haziqgujjar@gmail.com
+P-209(Block-B)
+Muslim Town
+Faisalabad
+Pakistan
